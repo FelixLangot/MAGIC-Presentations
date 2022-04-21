@@ -1,1 +1,4 @@
 *.DS_Store
+ATR42/.DS_Store
+.gitignore
+BLD/.DS_Store
